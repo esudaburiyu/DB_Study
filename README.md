@@ -13,3 +13,5 @@
 - [情報処理技術者試験の勉強をやり直し](http://www.k4.dion.ne.jp/~type_f/)
 - [データベーススペシャリスト　午前　YouTube　解説映像](http://www.wakuwakustudyworld.co.jp/blog/youtube_db)
 
+##大学の講義スライドなど
+- [データベース概説](http://www.slis.tsukuba.ac.jp/~uda.norihiko.fw/lecture/database/)
