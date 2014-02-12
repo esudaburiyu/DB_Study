@@ -10,3 +10,6 @@
 - [SQL入門](http://www.1keydata.com/jp/sql/)
 - [データベーススペシャリストに挑戦](http://database.digi2.jp/index.html)
 - [過去問WEB問題集](http://www.qeq.jp/jouhou/kakomon/database/index.html )
+- [情報処理技術者試験の勉強をやり直し](http://www.k4.dion.ne.jp/~type_f/)
+- [データベーススペシャリスト　午前　YouTube　解説映像](http://www.wakuwakustudyworld.co.jp/blog/youtube_db)
+
