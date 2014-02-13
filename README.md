@@ -15,3 +15,5 @@
 
 ##大学の講義スライドなど
 - [データベース概説](http://www.slis.tsukuba.ac.jp/~uda.norihiko.fw/lecture/database/)
+- [データベース](http://www.db.ss.is.nagoya-u.ac.jp/~ishikawa/lectures/db13/)
+
